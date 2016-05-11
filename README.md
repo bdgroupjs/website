@@ -2,13 +2,15 @@
 BDGROUP website
 
 #BDGROUP Pty ltd
-Founder: Goodwish M
+Founder: Goodwish Matyila
 South Africa
 
-#Complete website for http:///businessdomains.co.za
+#Complete website for http://businessdomains.co.za
 This is property of BDGroup Pty ltd - Projects are open to public
 Copy, Re-use and Distribute.
 
 #Contact 
-084 790 8653
+net@cdn.businessdomains.co.za
+
+
 
